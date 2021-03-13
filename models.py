@@ -42,11 +42,6 @@ class PlaylistSong(db.Model):
 
 
 
-
-
-
-
-
 # DO NOT MODIFY THIS FUNCTION
 def connect_db(app):
     """Connect to database."""
